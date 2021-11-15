@@ -1,1 +1,3 @@
 aici da codu
+
+print('gabriel')
