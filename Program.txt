@@ -1,3 +1,4 @@
 aici da codu
 
 print('gabriel')
+teapa la gabriel
